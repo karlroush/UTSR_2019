@@ -1,6 +1,8 @@
 # UTSR_2019
 Summary of work from the DoE's USTR Gas Turbine Industrial Fellowship Program @SwRI
+
 View past fellows and their work at [https://www2.swri.org/www2/utsr/pastfellows.html](https://www2.swri.org/www2/utsr/pastfellows.htm)
+
 ## Description
 The U.S. Department of Energy Office of Fossil Energy manages the Advanced Turbine Program, which strives to improve U.S. gas turbine technology for coal-based power plant applications with carbon capture and storage.
 
