@@ -9,8 +9,11 @@ The U.S. Department of Energy Office of Fossil Energy manages the Advanced Turbi
 One of the key elements of the Advanced Turbine Program is the University Turbine System Research (UTSR) Program. UTSR offers a Gas Turbine Industrial Fellowship (GTIF) program to recruit qualified university research students. This fellowship brings highly trained student researchers from the university to industrial gas turbine design and manufacturing environments. 
 
 _Read more_: [https://www.swri.org/utsr](https://www.swri.org/utsr)
+
 _Read my paper_: [https://www2.swri.org/www2/utsr/reports/roush-report.pdf](https://www2.swri.org/www2/utsr/reports/roush-report.pdf)
+
 _Read my presentation_: [https://www2.swri.org/www2/utsr/presentations/roush-presentation.pdf](https://www2.swri.org/www2/utsr/presentations/roush-presentation.pdf)
+
 ## Hybrid UAV
 The purpose of this project was to examine the viability of a variable cycle engine within a given ISR (Intelligence, Surveillance, and Reconnaissance) mission profile. Essentially, the system includes a ducted fan allowing for optimum design of the propulsion system aerodynamics without sacrificing the aero performance of the compact fuel-to-electric system.
 
